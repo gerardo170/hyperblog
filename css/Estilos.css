@@ -8,6 +8,15 @@
      padding: 0;
  }
 
+ #container 
+ {
+     background: #33A;
+     color: white;
+     margin: 0;
+     padding: 0.5em;
+ }
+
+
  #container
  {
    width: 70;
